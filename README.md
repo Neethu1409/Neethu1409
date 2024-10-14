@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Neethu1409
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning new skills in coding 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate (still Loading..)
+- 📫 How to reach me through email
 - 😄 Pronouns: ...
 - ⚡ Fun fact: still learning :)
 
